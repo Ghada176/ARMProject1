@@ -1,0 +1,1 @@
+This repository focuses on developing drivers for the SysTick timer and the Nested Vectored Interrupt Controller (NVIC) on TM4C series microcontrollers. The project involves configuring system timers and managing interrupts, providing hands-on experience with embedded systems programming.
